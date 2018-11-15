@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RunTests
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int[][]\ ReadCNFFile()
+numComments=3

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Population
+comment1.params=populationSize
+comment1.target=Population(int)
+comment2.params=numVariables\ populationSize
+comment2.target=Population(int,\ int)
+comment3.params=individuals
+comment3.target=Population(Individual[])
+comment4.params=
+comment4.target=Individual[]\ GetPopulation()
+comment5.params=population
+comment5.target=void\ SetPopulation(Individual[])
+comment6.params=index
+comment6.target=Individual\ GetIndividual(int)
+comment7.params=individual\ index
+comment7.target=void\ SetIndividual(Individual,\ int)
+comment8.params=individual
+comment8.target=void\ AddIndividual(Individual)
+comment9.params=
+comment9.target=int\ GetSize()
+numComments=10

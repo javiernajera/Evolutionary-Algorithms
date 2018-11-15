@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Individual
+comment1.params=
+comment1.target=Individual()
+comment2.params=assignments
+comment2.target=Individual(java.lang.String)
+comment3.params=numVariables
+comment3.target=Individual(int)
+comment4.params=
+comment4.target=java.lang.String\ GetAssignments()
+comment5.params=index
+comment5.target=char\ GetVariable(int)
+comment6.params=assignments
+comment6.target=void\ SetAssignments(java.lang.String)
+numComments=7

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=GeneticAlgorithm
+comment1.params=
+comment1.target=GeneticAlgorithm()
+comment10.params=pop
+comment10.target=Population\ mutation(Population)
+comment11.params=args
+comment11.target=void\ ReadArguments(java.lang.String[])
+comment12.params=best\ fitness\ iteration
+comment12.target=void\ algorithmDone(Individual,\ int,\ int)
+comment2.params=args\ clauses\ numVariables\ numClauses
+comment2.target=void\ RunGA(java.lang.String[],\ int[][],\ int,\ int)
+comment3.params=population\ clauses
+comment3.target=FitNode[]\ GenerateFitnessArray(Population,\ int[][])
+comment4.params=indie\ clauses
+comment4.target=int\ fitnessOf(Individual,\ int[][])
+comment5.params=pop\ fitnessArray\ clauses
+comment5.target=Individual[]\ rankSelection(Population,\ FitNode[],\ int[][])
+comment6.params=pop\ fitnessArray\ clauses
+comment6.target=Individual[]\ tournamentSelection(Population,\ FitNode[],\ int[][])
+comment7.params=pop\ fitnessArray\ clauses
+comment7.target=Individual[]\ boltzmannSelection(Population,\ FitNode[],\ int[][])
+comment8.params=p1\ p2
+comment8.target=Individual[]\ onePointCrossover(Individual,\ Individual)
+comment9.params=p1\ p2
+comment9.target=Individual[]\ uniformCrossover(Individual,\ Individual)
+numComments=13
